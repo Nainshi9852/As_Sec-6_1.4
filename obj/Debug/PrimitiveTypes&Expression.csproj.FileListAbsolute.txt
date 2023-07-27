@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-6\PrimitiveTypes&Expression\PrimitiveTypes&Expression\bin\Debug\PrimitiveTypes&Expression.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-6\PrimitiveTypes&Expression\PrimitiveTypes&Expression\bin\Debug\PrimitiveTypes&Expression.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-6\PrimitiveTypes&Expression\PrimitiveTypes&Expression\bin\Debug\PrimitiveTypes&Expression.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-6\PrimitiveTypes&Expression\PrimitiveTypes&Expression\obj\Debug\PrimitiveTypes&Expression.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-6\PrimitiveTypes&Expression\PrimitiveTypes&Expression\obj\Debug\PrimitiveTypes&Expression.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-6\PrimitiveTypes&Expression\PrimitiveTypes&Expression\obj\Debug\PrimitiveTypes&Expression.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-6\PrimitiveTypes&Expression\PrimitiveTypes&Expression\obj\Debug\PrimitiveTypes&Expression.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-6\PrimitiveTypes&Expression\PrimitiveTypes&Expression\obj\Debug\PrimitiveTypes&Expression.pdb
